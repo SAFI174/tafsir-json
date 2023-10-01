@@ -1,5 +1,3 @@
-# tafsir-json
-a json of 7 Arabic Tafsirs:
 1. Al Baghawi تفسير البغوي
 2. Al Jalalayn تفسير الجلالين
 3. Al Muyassar تفسير الميسر
